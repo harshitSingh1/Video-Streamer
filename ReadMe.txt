@@ -1,4 +1,4 @@
-Our project uses the Real-Time Messaging Protocol (RTMP) to handle audio and video streaming because it has broad support.
+This project uses the Real-Time Messaging Protocol (RTMP) to handle audio and video streaming because it has broad support.
 First we will install the updates in operating system.
 then install Nginx web server.
 then get the RTMP module so Nginx can handle the media stream.
